@@ -1,0 +1,16 @@
+User Side
+
+As a user, I want to see the receiver QR code to fill in their bank details
+
+As a user, I want to enter the amount. I want to send anad click confirm to send money
+
+As a user, I want to access the scan code shortcut to scan the code efficiently
+
+--------------
+Receiver side
+
+As a receiver, I want to provide my PayID QR code to receuve the amount
+
+As a receiver, I wnt to check my statement to confirm that amount was received
+
+As a receiver, I wnt to have a shorcyt for the QR code, like long pressing the home button, or adding shortcut key in the control menu
